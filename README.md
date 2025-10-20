@@ -33,7 +33,7 @@ It focuses on data cleaning, transformation, and KPI generation using SQL, with 
 	•	Integrated DAX measures for MoM growth, return rate, and discount percentage.
 
 ## 💡 Key Insights
-	•	Majority of sales occurred in European countries, led by Germany and the UK.
+	•	Majority of sales occurred China followed by USA.
 	•	Discount periods significantly increased sales volume but slightly reduced margins.
 	•	Medium and large sizes accounted for nearly 88% of product sales.
 	•	The return rate averaged around 6%, varying seasonally with discount campaigns.
