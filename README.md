@@ -1,14 +1,14 @@
-* 📋 Project Overview
+# 📋 Project Overview 
 
 This project analyzes a large-scale retail dataset (6.4M+ sales transactions) from a global fashion brand.
 It focuses on data cleaning, transformation, and KPI generation using SQL, with interactive visualization and insights built in Power BI.
 
-** 🎯 Objectives
-	•	To perform data transformation and aggregation using SQL views for optimized performance.
-	•	To build dynamic dashboards in Power BI showcasing key retail metrics and business insights.
-	•	To derive actionable patterns in sales, discounts, and customer behavior across multiple countries.
+## 🎯 Objectives
+	*	To perform data transformation and aggregation using SQL views for optimized performance.
+	*	To build dynamic dashboards in Power BI showcasing key retail metrics and business insights.
+	*   To derive actionable patterns in sales, discounts, and customer behavior across multiple countries.
 
-** ⚙️ Technologies Used
+## ⚙️ Technologies Used
 	•	Docker – to host Microsoft SQL Server in an isolated containerized environment.
 	•	Azure Data Studio – for SQL querying, transformation, and view creation.
 	•	Power BI – for visualization, DAX-based calculations, and dashboard creation.
