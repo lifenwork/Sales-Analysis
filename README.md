@@ -39,6 +39,9 @@ It focuses on data cleaning, transformation, and KPI generation using SQL, with 
 	•	The return rate averaged around 6%, varying seasonally with discount campaigns.
 	•	Top 5 employees and products contributed disproportionately to total revenue.
 
+## Dataset
+    •   You will find the related data at https://www.kaggle.com/datasets/ricgomes/global-fashion-          retail-stores-dataset
+
 ## 🚀 How to Use
 	1.	Clone this repository.
 	2.	Run the SQL scripts in Azure Data Studio or any SQL-compatible IDE.
