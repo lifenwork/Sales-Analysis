@@ -41,9 +41,3 @@ It focuses on data cleaning, transformation, and KPI generation using SQL, with 
 
 ## Dataset
     •   You will find the related data at https://www.kaggle.com/datasets/ricgomes/global-fashion-          retail-stores-dataset
-
-## 🚀 How to Use
-	1.	Clone this repository.
-	2.	Run the SQL scripts in Azure Data Studio or any SQL-compatible IDE.
-	3.	Open the Power BI file (.pbix) and connect it to your SQL Server instance.
-	4.	Refresh visuals to explore the live data model.
